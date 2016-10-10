@@ -1,0 +1,100 @@
+﻿div {
+	border-radius: 6px;
+	background: #2db34a;
+	text-align: center;
+	color: white;
+	padding: 15px 15px;
+	
+	}
+	
+header,
+footer,
+aside,
+article {
+	margin: 0 1.5% 24px 1.5%;
+	}
+	
+.nav {
+	display: block;
+	width: 620px;
+	margin: 0 auto 1.0% auto;
+	}
+	
+.nav a {
+	display: inline-block;
+	text-decoration: none;
+	
+	font: bold 20px Arial;
+	color: #666;
+	text-align: center;
+	padding: 0 15px 1.0% 5px;
+	
+}
+
+header {
+	margin-bottom: 1.0%;
+	}
+
+
+	
+article {
+	float: left;
+	width: 63%;
+	
+	}
+	
+.field {
+	background: #f2f2f2;
+	color: black;
+	text-align: left;
+	}
+	
+aside {
+	float: left;
+	width: 30%;
+	
+	}
+.sidebar {
+	background: none;
+	
+	}
+	
+	img {
+	    float: left;
+		width: 150px;
+		margin: 5px 15px 2px 0;
+		}
+	ul {
+		text-align: right;
+		list-style: none;
+		padding-right: 20px;
+		}
+	ul li a {
+		text-decoration: none;
+		color: black;
+		
+		font: bold 16px Arial;
+		}
+	
+	.sidebar p {
+		color: black;
+		font: 13px "Courier New";
+		text-align: left;
+		}
+	.btn {
+		background: #f44336;
+		border-radius: 5px;
+		color: #fff;
+		width: 25%;
+		padding: 15px 15px;
+		display: block;
+		margin: 40px auto 40px auto;
+		font: 16px Arial;
+		text-decoration: none;
+		}
+	.btn:hover {
+		background: #ff6666;
+		}
+footer {
+	clear: both;
+	}
